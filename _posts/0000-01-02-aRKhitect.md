@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Do. Or do not. There is no try.
+> - Yoda
 Use the left arrow to go back!
